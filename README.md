@@ -1,5 +1,5 @@
 # GradesExplorer
-Search through the grades site
+Search through the technion grades site
 
 Run the CLI tool using Python. You can include the verbose flag (-v or --verbose) to enable detailed logging:
 ```
